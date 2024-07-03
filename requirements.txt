@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+pinecone-client
+python-dotenv
+requests
+beautifulsoup4
+pandas
+openai
+spacy
